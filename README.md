@@ -14,7 +14,7 @@
 Если вы еще не клонировали репозиторий проекта, выполните следующую команду:
 ```
 git clone https://github.com/daniyalkozhakmet/masnaget/
-cd <project-directory>
+cd masnaget
 ```
 Установить зависимости
 
