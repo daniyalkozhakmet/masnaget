@@ -13,7 +13,7 @@
 
 Если вы еще не клонировали репозиторий проекта, выполните следующую команду:
 ```
-git clone <repository-url>
+git clone https://github.com/daniyalkozhakmet/masnaget/
 cd <project-directory>
 ```
 Установить зависимости
